@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+nav > ul > li > a{
+         text-decoration: none;
+         
+    
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: #A7B3BF;
+    position: relative;
+}
+.logo{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+
+}
